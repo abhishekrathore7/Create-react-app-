@@ -1,0 +1,12 @@
+Hello guys!!!
+This is the solution to the problem as stated in the description of the repository.
+1.If you are using windows 10, and the problem occurs. Steps to resolve the problem is:
+Steps:
+1.first uninstall your node.js package and the install the 32 bit node.js
+2.after installing,Simply run the command npx create-react-app my-app in the command prompt.(it will take time to create the app around 10-15 mins)
+3.It will create your react app
+4.Run the command cd my-app and then run the command npm start(if you installed yarn in that case run the command yarn start).
+
+
+Thank you....
+Happy Hacking!!!!!
